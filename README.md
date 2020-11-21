@@ -1,4 +1,3 @@
-# Gabriel Macuare profile
+# **Gabriel Macuare profile** 
 
-## This is my profile to be shown.
-
+## This is my profile to be shown :grinning:
