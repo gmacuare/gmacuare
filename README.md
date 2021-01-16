@@ -1,42 +1,40 @@
 # **Gabriel Macuare** <br>
 
-  Welcome to my syte :grinning:. I am a data Analyst with +5 years experience in pricing positions, reporting and data analysis . I am very passionate about ways of automating manual tasks and improving  processes in the enterprise, throughout my career I have been able to improve the decision-making processes by creating fabulous dashboards and reports and communicating clearly 
+  Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pricing positions, reporting and data analysis. I am very passionate about new ways of automating manual tasks and improving processes in the enterprise. Throughout my career, I have been able to improve the decision-making processes by creating fabulous dashboards, reports and recommending clearly how can we overcome any challenge we might face in the market, based on data analysis.
   
  The main tools I have worked with are:
  
-* Python
-* Microsoft Power BI
-* Microsot Excel
-* Tableau
-* Business Objects
-* <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL
+* ![](./Icons/icons8-python-48.png) Python
+* ![](./Icons/icons8-power-bi-64.png) Microsoft Power BI
+* ![](./Icons/icons8-microsoft-excel-64.png) Microsot Excel
+* ![](./Icons/icons8-tableau-software-48.png) Tableau
+* ![](./Icons/icons8-sap-48.png) Business Objects
+* ![](./Icons/icons8-sql-64.png) SQL
 
-Below you will find a snapshots of some things I have designed, please bear in mind for I have used fictitious data.
+Below you will find a snapshot of some things I have designed, please bear in mind that I have used **fictitious** data for the reports shown below.
 
 
 
 
 ## Python Automation
-Through this tool I have been able to save precious time by: 
-* Cleaning and preparing databases for loading
-* Automating reports loadings
+Through the use of Jupyter notebooks and Google colab I have been able to save precious time by: 
+* Cleaning and preparing databases for loading.
+* Automating reports loadings.
 
 
 
-<img src ="Images/Covid.jpg" width='400'>
-
-
-![](Images/Personal%20Finances%20Power%20BI.jpg.jpg)
 
 ## Microsot Power BI
-![](Images/Covid.jpg) <br><br>
+![](./Images/COVID%20Power%20BI.jpg) <br><br>
+
+![](./Images/Personal%20Finances%20Power%20BI.jpg)
 
 
 
 ## Tableau 
-
+![](./Images/Discounted_sales_analysis.jpg)
 
 ## Microsoft Excel
 
- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [Gabriel's Profile](https://www.linkedin.com/in/gabrielmacuare/)
+ ![](./Icons/icons8-linkedin-48.png) [Gabriel's Profile](https://www.linkedin.com/in/gabrielmacuare/)
 
