@@ -27,7 +27,7 @@ Through the use of Jupyter notebooks and Google colab I have been able to save p
 ## Microsot Power BI
 ![](./Images/COVID%20Power%20BI.jpg) <br><br>
 
-![](./Images/Personal%20Finances%20Power%20BI.jpg)
+![](./Images/PersonaLFinancesPowerBI.jpg)
 
 
 
