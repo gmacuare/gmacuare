@@ -1,6 +1,6 @@
 # **Gabriel Macuare** <br>
 
->Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pricing positions, reporting and data analysis. I am very passionate about new ways of automating manual tasks and improving processes in the enterprise. Throughout my career, I have been able to improve the decision-making processes by creating fabulous dashboards, reports and recommending clearly how can we overcome any challenge we might face in the market, based on data analysis.
+Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pricing positions, reporting and data analysis. I am very passionate about new ways of automating manual tasks and improving processes in the enterprise. Throughout my career, I have been able to improve the decision-making processes by creating fabulous dashboards, reports and recommending clearly how can we overcome any challenge we might face in the market, based on data analysis.
   
  The main tools I have worked with are:
  
@@ -27,7 +27,7 @@ Through the use of Jupyter notebooks and Google colab I have been able to save p
 ## Microsot Power BI
 ![](./Images/COVID%20Power%20BI.jpg) <br><br>
 
-![](./Images/PersonaLFinancesPowerBI.jpg)
+![](./Images/Finances.jpg)
 
 
 
