@@ -1,6 +1,6 @@
 # **Gabriel Macuare** <br>
 
-  Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pricing positions, reporting and data analysis. I am very passionate about new ways of automating manual tasks and improving processes in the enterprise. Throughout my career, I have been able to improve the decision-making processes by creating fabulous dashboards, reports and recommending clearly how can we overcome any challenge we might face in the market, based on data analysis.
+>Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pricing positions, reporting and data analysis. I am very passionate about new ways of automating manual tasks and improving processes in the enterprise. Throughout my career, I have been able to improve the decision-making processes by creating fabulous dashboards, reports and recommending clearly how can we overcome any challenge we might face in the market, based on data analysis.
   
  The main tools I have worked with are:
  
@@ -11,7 +11,7 @@
 * ![](./Icons/icons8-sap-48.png) Business Objects
 * ![](./Icons/icons8-sql-64.png) SQL
 
-You can connect with me on <a href="https://www.linkedin.com/in/gabrielmacuare/"> <img alt="Qries" src="./Icons/icons8-linkedin-48.png"> . Below you will find a snapshot of some things I have designed, please bear in mind that I have used **fictitious** data for the reports shown below.
+>You can connect with me on <a href="https://www.linkedin.com/in/gabrielmacuare/"> <img alt="Qries" src="./Icons/icons8-linkedin-48.png"> . Below you will find a snapshot of some things I have designed, please bear in mind that I have used **fictitious** data for the reports shown below.
 
 
 
