@@ -11,7 +11,7 @@ Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pr
 * ![](./Icons/icons8-sap-48.png) Business Objects
 * ![](./Icons/icons8-sql-64.png) SQL
 
-You can connect with me on <a href="https://www.linkedin.com/in/gabrielmacuare/"> <img alt= src="./Icons/icons8-linkedin-48.png">
+You can connect with me on <a href="https://www.linkedin.com/in/gabrielmacuare/"> <img src="./Icons/icons8-linkedin-48.png">
   
 
 
