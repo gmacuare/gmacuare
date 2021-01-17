@@ -9,7 +9,7 @@ Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pr
 * ![](./Icons/icons8-microsoft-excel-64.png) Microsot Excel
 * ![](./Icons/icons8-tableau-software-48.png) Tableau
 * ![](./Icons/icons8-sap-48.png) Business Objects
-* ![](./Icons/icons8-sql-64.png) SQL
+* ![](./Icons/icons8-sql-64.png) SQL <br><br>
 
  Below you will find a snapshot of some things I have designed, please bear in mind that I have used **fictitious** data for the reports shown below.
 
@@ -23,7 +23,7 @@ Through the use of Jupyter notebooks and Google colab I have been able to save p
 
 
 ## Microsot Power BI
-![](./Images/COVID%20Power%20BI.jpg) <br><br>
+![](./Images/COVID%20Power%20BI.jpg) <br>
 
 ![](./Images/Finance.jpg)
 
