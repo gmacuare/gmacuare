@@ -11,11 +11,6 @@ Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pr
 * ![](./Icons/icons8-sap-48.png) Business Objects
 * ![](./Icons/icons8-sql-64.png) SQL
 
-You can connect with me on <a href="https://www.linkedin.com/in/gabrielmacuare/"> <img src="./Icons/icons8-linkedin-48.png">  <br><br>
-  
-  .Below you will find a snapshot of some things I have designed, please bear in mind that I have used **fictitious** data for the reports shown below.
-  
-
 
 
 
@@ -39,8 +34,9 @@ Through the use of Jupyter notebooks and Google colab I have been able to save p
 ![](./Images/Discounted_sales_analysis.jpg)
 
 ## Microsoft Excel
-![](./Images/Excel.jpg)
+![](./Images/Excel.jpg) <br><br>
 
 
+You can connect with me on <a href="https://www.linkedin.com/in/gabrielmacuare/"> <img src="./Icons/icons8-linkedin-48.png">  
 
         
