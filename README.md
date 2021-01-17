@@ -11,8 +11,7 @@ Welcome to my site :grinning:. I am an Analyst with +5 years of experience in pr
 * ![](./Icons/icons8-sap-48.png) Business Objects
 * ![](./Icons/icons8-sql-64.png) SQL
 
-
-
+ Below you will find a snapshot of some things I have designed, please bear in mind that I have used **fictitious** data for the reports shown below.
 
 
 ## Python Automation
